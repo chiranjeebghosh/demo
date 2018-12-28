@@ -1,4 +1,6 @@
-[
+{
+  "directoryInfo" : 
+  [
   {
     "name": "Directory_GL",
     "size": null,
@@ -54,3 +56,4 @@
     "lastModified": "20-12-2018 10:23:08"
   }
 ]
+}
