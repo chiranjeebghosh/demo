@@ -1,14 +1,56 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "name": "Directory_GL",
+    "size": null,
+    "isDirectory": true,
+    "lastModified": "20-12-2018 10:23:08"
+  },
+  {
+    "name": "Directory_GL/File_GL.txt",
+    "size": 0,
+    "isDirectory": false,
+    "lastModified": "20-12-2018 10:23:08"
+  },
+  {
+    "name": "Directory_GL2",
+    "size": null,
+    "isDirectory": true,
+    "lastModified": "20-12-2018 10:23:08"
+  },
+  {
+    "name": "Directory_GL2/File_GL2.txt",
+    "size": 0,
+    "isDirectory": false,
+    "lastModified": "20-12-2018 10:23:08"
+  },
+  {
+    "name": "Directory_GL3",
+    "size": null,
+    "isDirectory": true,
+    "lastModified": "20-12-2018 10:23:08"
+  },
+  {
+    "name": "Directory_GL3/File_GL3.txt",
+    "size": 0,
+    "isDirectory": false,
+    "lastModified": "20-12-2018 10:23:08"
+  },
+  {
+    "name": "Directory_GL3/Directory_GL4",
+    "size": null,
+    "isDirectory": true,
+    "lastModified": "20-12-2018 10:23:08"
+  },
+  {
+    "name": "Directory_GL3/Directory_GL4/File_GL4.txt",
+    "size": 0,
+    "isDirectory": false,
+    "lastModified": "20-12-2018 10:23:08"
+  },
+  {
+    "name": "Directory_GL3/Directory_GL5",
+    "size": 0,
+    "isDirectory": false,
+    "lastModified": "20-12-2018 10:23:08"
   }
-}
+]
